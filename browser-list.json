@@ -1,0 +1,81 @@
+[
+    {
+        "os": "Windows",
+        "os_version": "10",
+        "browser": "chrome",
+        "browser_version": "71.0",
+        "device": null
+    },
+    {
+        "os": "Windows",
+        "os_version": "10",
+        "browser": "edge",
+        "device": null,
+        "browser_version": "18.0",
+        "real_mobile": null
+    },
+    {
+        "os": "Windows",
+        "os_version": "10",
+        "browser": "firefox",
+        "device": null,
+        "browser_version": "63.0",
+        "real_mobile": null
+    },
+    {
+        "os": "Windows",
+        "os_version": "10",
+        "browser": "ie",
+        "device": null,
+        "browser_version": "11.0",
+        "real_mobile": null
+    },
+    {
+        "os": "OS X",
+        "os_version": "Mojave",
+        "browser": "firefox",
+        "device": null,
+        "browser_version": "63.0",
+        "real_mobile": null
+    },
+    {
+        "os": "OS X",
+        "os_version": "Mojave",
+        "browser": "chrome",
+        "device": null,
+        "browser_version": "71.0",
+        "real_mobile": null
+    },
+    {
+        "os": "OS X",
+        "os_version": "Mojave",
+        "browser": "safari",
+        "device": null,
+        "browser_version": "12.1",
+        "real_mobile": null
+    },
+    {
+        "os": "ios",
+        "os_version": "12",
+        "browser": "Mobile Safari",
+        "device": "iPhone 8",
+        "browser_version": null,
+        "real_mobile": true
+    },
+    {
+        "os": "ios",
+        "os_version": "12",
+        "browser": "Mobile Safari",
+        "device": "iPhone 6S",
+        "browser_version": null,
+        "real_mobile": true
+    },
+    {
+        "os": "ios",
+        "os_version": "11",
+        "browser": "Mobile Safari",
+        "device": "iPad 6th",
+        "browser_version": null,
+        "real_mobile": true
+    }
+]
